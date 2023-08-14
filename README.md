@@ -16,13 +16,13 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 - Clone this repository
 
   ```
-  git clone https://github.com/johdasgran/mr-robot-theme.git
+  git clone https://github.com/badihdz/nonamegrub.git
   ```
 
 - Change directory to the Mr Robot Theme
 
   ```
-  cd mr-robot-theme
+  cd nonamegrub
   ```
 
 - Review install script at ./install.sh
@@ -41,7 +41,7 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 - **Easier, less secure way** — just download and run install script:
 
   ```
-  wget -O - https://github.com/johdasgran/mr-robot-theme/raw/main/install.sh | bash
+  wget -O - https://github.com/badihdz/nonamegrub/raw/main/install.sh | bash
   ```
 
 - Reboot your PC
